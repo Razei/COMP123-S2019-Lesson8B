@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace COMP123_S2019_Lesson8B
 {
-    public partial class Form1 : Form
+    public partial class Lab8Form : Form
     {
-        public Form1()
+        public Lab8Form()
         {
             InitializeComponent();
+        }
+
+        private void Label1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
